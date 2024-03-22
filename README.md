@@ -7,8 +7,9 @@ This project demonstrates a hybrid search approach combining text and image inpu
 To run this project locally, follow these steps:
 
 1. Clone the repository:
-git clone [https://github.com/your-username/hybrid-search-gcp.git](https://github.com/Venkatesh-Bharath/Hybrid-Search-with-Google-Cloud-Vision-API)
-
+```bash
+git clone https://github.com/your-username/hybrid-search-gcp.git
+```
 
 2. Install the required Python packages:
 ```bash
