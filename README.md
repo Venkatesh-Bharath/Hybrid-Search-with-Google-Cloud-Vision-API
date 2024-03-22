@@ -17,6 +17,7 @@ pip install streamlit numpy transformers google-cloud-vision
 3.Set up Google Cloud credentials by exporting your Google Cloud API key as an environment variable:
 
 ##Set your Google Cloud API key as the environment variable
+
 os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = "Enter your key Here"
 
 4.Usage
