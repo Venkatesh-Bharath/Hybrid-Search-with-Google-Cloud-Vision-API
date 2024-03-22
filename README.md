@@ -8,7 +8,8 @@ Clone the repository:
 git clone https://github.com/your-username/hybrid-search-gcp.git
 
 Install the required Python packages:
-pip install -r requirements.txt
+[//]: # pip install streamlit numpy transformers google-cloud-vision
+
 
 Set up Google Cloud credentials by exporting your Google Cloud API key as an environment variable:
 os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = "key--------------------"   < Enter your API key Here>
