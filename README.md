@@ -8,7 +8,7 @@ To run this project locally, follow these steps:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/hybrid-search-gcp.git
+git clone https://github.com/Venkatesh-Bharath/Hybrid-Search-with-Google-Cloud-Vision-API.git
 ```
 
 2. Install the required Python packages:
